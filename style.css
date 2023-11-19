@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: Aguante;
+    font-size: 40px;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(lightblue, blue);
+}
+
+iframe {
+    margin: 20px;
+}
+
+img {
+    width: 100px;
+}
